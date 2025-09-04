@@ -3,7 +3,7 @@
 Pour faire une présentation sur la couverture de code, choisissez un des sujets listés ci-dessous et indiquez votre nom. Si vous souhaitez faire une présentation sur un autre sujet, contacter les assistants le plus tôt possible pour valider le nouveau sujet.
 
 [concept] Couverture des instructions et branches
-- Nom:
+- Nom: Alessia Muresan
 - Présentation:
 
 [concept] Critère MC/DC 
@@ -31,7 +31,7 @@ Pour faire une présentation sur la couverture de code, choisissez un des sujets
 - Présentation:
 
 [demo] Couverture de code pour Javascript  
-- Nom: Louis-Philippe Ostiguy
+- Nom:
 - Présentation:
 
 [demo] Couverture de code pour Rust 
